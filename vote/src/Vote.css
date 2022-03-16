@@ -1,0 +1,108 @@
+.a h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration:underline;
+}
+.b{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:rgb(132, 166, 230);
+    font-family:'Courier New', Courier, monospace
+}
+.d{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:rgb(211, 174, 180);
+    font-family:'Courier New', Courier, monospace
+}
+.f{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(228, 136, 102);
+    font-family:'Courier New', Courier, monospace
+}
+.h{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(185, 127, 127);
+    font-family:'Courier New', Courier, monospace
+}
+.c{
+    border: 2px black solid;
+    border-radius: 50px;
+    margin:5px;
+    width:150px;
+    font-family:Comic;
+    font-weight: bold;
+    cursor:pointer;
+    
+}
+.e{
+    border: 2px black solid;
+    border-radius: 50px;
+    margin:5px;
+    width:150px;
+    font-family:Comic;
+    font-weight: bold;
+    cursor:pointer;
+}
+.g{
+    border: 2px black solid;
+    border-radius: 50px;
+    margin:5px;
+    width:150px;
+    font-family:Comic;
+    font-weight: bold;
+    cursor:pointer;
+}
+.i{
+    border: 2px black solid;
+    border-radius: 50px;
+    margin:5px;
+    width:150px;
+    font-family:Comic;
+    font-weight: bold;
+    cursor:pointer;
+
+}
+.i:hover{
+    color:crimson;
+}
+.g:hover{
+    color:crimson;
+}
+.e:hover{
+    color:crimson;
+}
+.c:hover{
+    color:crimson;
+}
+.A{
+    border:5px black solid;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:600px;
+    margin-right: 600px;
+    display: grid-line blue solid;
+    background-image: linear-gradient(rgb(235, 150, 164),rgb(116, 168, 140),rgb(187, 143, 185),rgb(241, 131, 149));
+   
+}
+.z{
+    margin-top: 30px;
+    font-weight: bold;
+    font-size:x-large;
+}
+.y{
+    margin-top: 30px;
+    font-weight: bold;
+    font-size:x-large;
+}
+.x{
+    margin-top: 30px;
+    font-weight: bold;
+    font-size:x-large;
+}
+.w{
+    margin-top: 30px;
+    font-weight: bold;
+    font-size:x-large;
+}
