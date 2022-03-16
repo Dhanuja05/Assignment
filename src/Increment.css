@@ -1,0 +1,16 @@
+.button{
+    padding:10px;
+    margin:10px;
+    background-color:antiquewhite;
+    border:none;
+    border-radius: 10px;
+    cursor:crosshair;
+}
+.button1{
+    padding:10px;
+    margin:10px;
+    background-color:rgb(78, 200, 160);
+    border:none;
+    border-radius: 10px;
+    cursor:alias;
+}

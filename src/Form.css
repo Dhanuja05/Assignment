@@ -1,0 +1,67 @@
+.v{
+    border:5px black solid;
+    margin:auto;
+    width: 960px;
+    padding: 10px;
+
+}
+.v h1{
+    text-decoration: underline;
+}
+.v input[type="text"]
+{
+    width:300px;
+}
+.cc{
+    display:flex;
+    justify-content: space-around;
+    border-radius: 50px;
+}
+.dd{
+    display:flex;
+    justify-content: space-around;
+    border-radius: 50px
+}
+.ee{
+    display:flex;
+    justify-content: space-around;
+    border-radius: 50px
+}
+/* .ff{
+    display:flex;
+    justify-content: space-around;
+    border-radius: 20px;
+    
+} */
+
+.hh{
+    display:flex;
+    justify-content: space-around;
+    border-radius: 50px
+}
+.gg{
+    display:flex;
+    justify-content: space-around;
+    border-radius: 50px
+}
+/* .ii{
+    display:flex;
+    justify-content: space-around;
+    border-radius: 50px
+} */
+.ff{
+    margin-left: 9%;
+    
+}
+.ff input{
+    width: 780px!important;
+}
+
+.ii{
+    margin-left: 9%;
+}
+.ii input{
+    width: 780px!important;
+}
+
+

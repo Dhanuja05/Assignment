@@ -1,0 +1,92 @@
+.t{
+    border:5px black solid;
+    margin:auto;
+    width: 450px;
+    padding: 10px;
+    background-color: black;
+    border-radius:25px;
+    height:500px;
+    
+}
+.t h1{
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.dv{
+    display: flex;
+    justify-content: space-evenly;
+    padding:20px;
+    
+    
+
+}
+.dv input{
+    padding:5px;
+    background-image: linear-gradient(to bottom right, rgb(225, 246, 234), rgb(156, 170, 138));
+   
+}
+.cv {
+    margin-right:9%;
+    width: 89px!important;
+    padding:20px
+}
+.cv input{
+    margin-left:12%;
+    width: 375px!important;
+    padding:5px;
+   
+    background-image: linear-gradient(to bottom right, rgb(225, 246, 234), rgb(156, 170, 138));
+}
+.hf{
+    margin-right:9%;
+    width: 89px!important;
+    padding:20px
+}
+.hf input{
+    margin-left:12%;
+    width: 375px!important;
+    padding:5px;
+   
+    background-image: linear-gradient(to bottom right, rgb(225, 246, 234), rgb(156, 170, 138));
+    
+}
+.rf{
+    margin-right:9%;
+    width: 89px!important;
+    padding:20px
+}
+.rf input{
+    margin-left:12%;
+    width: 375px!important;
+    padding:5px;
+  
+    
+    background-image: linear-gradient(to bottom right, rgb(225, 246, 234), rgb(156, 170, 138));
+}
+.rt{
+    margin-right:9%;
+    width: 89px!important;
+    padding:20px
+}
+.rt input{
+    margin-left:12%;
+    width: 375px!important;
+    padding:5px;
+    
+    background-image: linear-gradient(to bottom right, rgb(225, 246, 234), rgb(156, 170, 138));
+}
+.nj{
+    margin-left:63%;
+    width:3000px!important;
+    padding:20px;
+    
+
+    
+}
+.jn{
+    
+    padding:10px;
+    background-image: linear-gradient(to bottom right, rgba(102, 199, 73, 0.904), rgb(152, 238, 39));
+    border-radius: 50px;
+}
