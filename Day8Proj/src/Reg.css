@@ -1,0 +1,60 @@
+.a{
+    border: 5px black solid;
+    margin-top:30px;
+    margin-right:500px;
+    margin-left: 500px;
+    padding:20px
+} 
+
+.b{
+    display: flex;
+    justify-content:space-around;
+    margin-right:60px;
+}
+.e{
+    display: flex;
+    justify-content:space-around
+}
+
+.e input{
+    width:30%;
+
+}
+.i{
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: 10px;
+}
+
+.i input{
+    text-align: center;
+}
+
+.g{
+    display: flex;
+    justify-content:space-evenly;
+}
+.h{
+    display:flex;
+    justify-content:space-evenly;
+    padding-right: 450px;
+    margin-top:20px;
+}
+.n{
+    margin-top: 10px;
+}
+
+.f{
+    display: flex;
+    justify-content: space-evenly;
+}
+.f input{
+    width:250px;
+}
+.z{
+    display: flex;
+    justify-content: space-around;
+}
+.z input{
+    width:250px;
+}
