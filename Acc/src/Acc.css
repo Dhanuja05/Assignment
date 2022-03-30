@@ -1,0 +1,54 @@
+.b{
+    border:2px rgb(212, 210, 207) solid; 
+    margin-left:440px;
+    margin-top: 15px;
+    margin-right: 20px;
+    padding:30px; 
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width:50%
+    
+}
+.a{
+    border:2px solid rgb(235, 222, 222);
+    margin-top: 30px;
+    margin-left:300px;
+    margin-right:300px;
+    margin-bottom: 50px;
+    padding: 20px;
+    box-shadow:0 4px 8px 0 rgba(128, 112, 112, 0.39), 0 6px 20px 0 rgba(85, 81, 81, 0.19);
+    border-radius: 5px;
+   background-color: white;
+  width:70%;
+  padding-bottom: 40px;
+}
+.d{
+    
+    float: right;
+    background-color: #cae4dd;
+    border: none;
+    color:rgb(114, 33, 33);
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+   margin-bottom: 10px;
+    border-radius: 50%;
+   
+   
+}
+.c{
+    font-family: 'Times New Roman', Times, serif;
+    position:absolute;
+    top:38px;
+    margin-left:50px;
+}
+.t{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.b h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
